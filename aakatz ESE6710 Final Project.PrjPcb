@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -48,7 +48,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
-CurrentVariant=As Built
 
 [Preferences]
 PrefsVaultGUID=
@@ -173,82 +172,73 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[ProjectVariant1]
-UniqueId=01064a5a-b4f1-4da9-ab9d-10afe89003d8
-Description=As Built
-AllowFabrication=0
-ParameterCount=0
-VariationCount=5
-Variation1=Designator=C8|UniqueId=\VJAHCTIA|Kind=1|AlternatePart=
-Variation2=Designator=C9|UniqueId=\EMDZMCMU|Kind=1|AlternatePart=
-Variation3=Designator=C10|UniqueId=\BJMKUDOZ|Kind=2|AlternatePart=JR500|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00035-2|AltLibLink_DesignItemID=CMP-001-00035-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=6900e004-9c52-49b8-a0b4-4f454cf5485b|AltLibLink_RevisionGUID=a6138a77-8341-421e-92ec-6367938b024a|AltLibLink_Footprint=JR500-Footprint-1|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Comment|VariantValue=JR500
-ParamDesignator1=C10
-ParamVariation2=ParameterName=Capacitor Type|VariantValue=VARIABLE CERAMIC
-ParamDesignator2=C10
-ParamVariation3=ParameterName=Case/Package|VariantValue=3432
-ParamDesignator3=C10
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=C10
-ParamVariation5=ParameterName=Description|VariantValue=Ceramic, 125V, 100% +Tol, 0% -Tol, 8pF Min, 50pF Max, Vertical Adjuster, Surface Mount
-ParamDesignator5=C10
-ParamVariation6=ParameterName=Dielectric Material|VariantValue=Ceramic
-ParamDesignator6=C10
-ParamVariation7=ParameterName=Footprint|VariantValue=JR500-Footprint-1
-ParamDesignator7=C10
-ParamVariation8=ParameterName=Height|VariantValue=1.15mm
-ParamDesignator8=C10
-ParamVariation9=ParameterName=Ibis Model|VariantValue=
-ParamDesignator9=C10
-ParamVariation10=ParameterName=Length|VariantValue=3.5mm
-ParamDesignator10=C10
-ParamVariation11=ParameterName=Library Reference|VariantValue=CMP-001-00035-2
-ParamDesignator11=C10
-ParamVariation12=ParameterName=Lifecycle Status|VariantValue=Production
-ParamDesignator12=C10
-ParamVariation13=ParameterName=Maximum Value|VariantValue=50pF
-ParamDesignator13=C10
-ParamVariation14=ParameterName=Max Operating Temperature|VariantValue=85°C
-ParamDesignator14=C10
-ParamVariation15=ParameterName=maxval|VariantValue=="Maximum Value"
-ParamDesignator15=C10
-ParamVariation16=ParameterName=Minimum Value|VariantValue=8pF
-ParamDesignator16=C10
-ParamVariation17=ParameterName=Min Operating Temperature|VariantValue=-40°C
-ParamDesignator17=C10
-ParamVariation18=ParameterName=minval|VariantValue=="Minimum Value"
-ParamDesignator18=C10
-ParamVariation19=ParameterName=Mount|VariantValue=SMD
-ParamDesignator19=C10
-ParamVariation20=ParameterName=Mounting Technology|VariantValue=Surface Mount
-ParamDesignator20=C10
-ParamVariation21=ParameterName=PCB3D|VariantValue=
-ParamDesignator21=C10
-ParamVariation22=ParameterName=Pin Info|VariantValue=
-ParamDesignator22=C10
-ParamVariation23=ParameterName=Pins|VariantValue=3
-ParamDesignator23=C10
-ParamVariation24=ParameterName=REACH SVHC|VariantValue=Yes
-ParamDesignator24=C10
-ParamVariation25=ParameterName=RoHS|VariantValue=Yes
-ParamDesignator25=C10
-ParamVariation26=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator26=C10
-ParamVariation27=ParameterName=Simulation|VariantValue=
-ParamDesignator27=C10
-ParamVariation28=ParameterName=Tolerance|VariantValue=
-ParamDesignator28=C10
-ParamVariation29=ParameterName=Value|VariantValue==minval+'-'+maxval
-ParamDesignator29=C10
-ParamVariation30=ParameterName=Voltage|VariantValue=
-ParamDesignator30=C10
-ParamVariation31=ParameterName=Voltage Rating (DC)|VariantValue=125V
-ParamDesignator31=C10
-ParamVariation32=ParameterName=Width|VariantValue=3.1mm
-ParamDesignator32=C10
-Variation4=Designator=C6|UniqueId=\DPYFIFSL|Kind=1|AlternatePart=
-Variation5=Designator=C4|UniqueId=\DIIAVFCE|Kind=1|AlternatePart=
-ParamVariationCount=32
+[Document8]
+DocumentPath=aakatz ESE6710 Final Project.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Gate Drivers.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OUROKOVO
+
+[Document10]
+DocumentPath=IsolatedPower.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PBDLEAXO
+
+[Document11]
+DocumentPath=PPT Primary Side.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DWWFVFXK
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for aakatz ESE6710 Lab3\Design Rule Check - Lab3.html
@@ -858,36 +848,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
