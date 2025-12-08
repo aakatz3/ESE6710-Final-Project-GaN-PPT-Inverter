@@ -48,6 +48,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
+CurrentVariant=Alts
 
 [Preferences]
 PrefsVaultGUID=
@@ -105,57 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=As Manufactured.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=V2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=V2A.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document5]
 DocumentPath=aakatz ESE6710 Final Project.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,14 +139,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document6]
 DocumentPath=Gate Drivers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -206,31 +156,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUROKOVO
 
-[Document10]
-DocumentPath=IsolatedPower.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PBDLEAXO
-
-[Document11]
+[Document7]
 DocumentPath=PPT Primary Side.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -240,89 +173,203 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWWFVFXK
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\Design Rule Check - Lab3.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=OSHPark Files\=ProjectName\Lab3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=OSHPark Files\=ProjectName\Lab3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=OSHPark Files\=ProjectName\Lab3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=OSHPark Files\=ProjectName\Lab3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=OSHPark Files\=ProjectName\Lab3.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for aakatz ESE6710 Lab3\OSHPark Files\aakatz ESE6710 Lab3\Lab3.TXT
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueId=dfcc1633-4c67-44fb-a107-7b06bb7bca4e
+Description=Alts
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=D4|UniqueId=\NVTLIQWK\PSJHMKRB|Kind=2|AlternatePart=BAT41ZFILM|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-00812-1|AltLibLink_DesignItemID=CMP-00812-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=a02647fa-2830-44fe-a160-e6361b47152d|AltLibLink_RevisionGUID=5315bdf8-f899-4b1d-8c7f-4e076785c14d|AltLibLink_Footprint=SOD-123|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=BAT41ZFILM
+ParamDesignator1=D4
+ParamVariation2=ParameterName=Average Rectified Current|VariantValue=200mA
+ParamDesignator2=D4
+ParamVariation3=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator3=D4
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=D4
+ParamVariation5=ParameterName=Contact Plating|VariantValue=Tin
+ParamDesignator5=D4
+ParamVariation6=ParameterName=Current Rating|VariantValue=200mA
+ParamDesignator6=D4
+ParamVariation7=ParameterName=Description|VariantValue=Rectifier Diode, Schottky, 1 Phase, 1 Element, 0.2A, 100V V(RRM), Silicon
+ParamDesignator7=D4
+ParamVariation8=ParameterName=Element Configuration|VariantValue=Single
+ParamDesignator8=D4
+ParamVariation9=ParameterName=Footprint|VariantValue=SOD-123
+ParamDesignator9=D4
+ParamVariation10=ParameterName=Forward Current|VariantValue=200mA
+ParamDesignator10=D4
+ParamVariation11=ParameterName=Forward Voltage|VariantValue=450mV
+ParamDesignator11=D4
+ParamVariation12=ParameterName=Height|VariantValue=1.45mm
+ParamDesignator12=D4
+ParamVariation13=ParameterName=Ibis Model|VariantValue=
+ParamDesignator13=D4
+ParamVariation14=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator14=D4
+ParamVariation15=ParameterName=Length|VariantValue=2.85mm
+ParamDesignator15=D4
+ParamVariation16=ParameterName=Library Reference|VariantValue=CMP-00812-1
+ParamDesignator16=D4
+ParamVariation17=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator17=D4
+ParamVariation18=ParameterName=Max Forward Surge Current (Ifsm)|VariantValue=1A
+ParamDesignator18=D4
+ParamVariation19=ParameterName=Max Junction Temperature (Tj)|VariantValue=150°C
+ParamDesignator19=D4
+ParamVariation20=ParameterName=Max Operating Temperature|VariantValue=150°C
+ParamDesignator20=D4
+ParamVariation21=ParameterName=Max Output current|VariantValue=200mA
+ParamDesignator21=D4
+ParamVariation22=ParameterName=Max Repetitive Reverse Voltage (Vrrm)|VariantValue=100V
+ParamDesignator22=D4
+ParamVariation23=ParameterName=Max Reverse Leakage Current|VariantValue=100nA
+ParamDesignator23=D4
+ParamVariation24=ParameterName=Max Reverse Voltage (DC)|VariantValue=100V
+ParamDesignator24=D4
+ParamVariation25=ParameterName=Max Surge Current|VariantValue=1A
+ParamDesignator25=D4
+ParamVariation26=ParameterName=Min Operating Temperature|VariantValue=-65°C
+ParamDesignator26=D4
+ParamVariation27=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator27=D4
+ParamVariation28=ParameterName=Number of Elements|VariantValue=1
+ParamDesignator28=D4
+ParamVariation29=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator29=D4
+ParamVariation30=ParameterName=Output Current|VariantValue=200mA
+ParamDesignator30=D4
+ParamVariation31=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator31=D4
+ParamVariation32=ParameterName=PCB3D|VariantValue=
+ParamDesignator32=D4
+ParamVariation33=ParameterName=Peak Non-Repetitive Surge Current|VariantValue=1A
+ParamDesignator33=D4
+ParamVariation34=ParameterName=Peak Reverse Current|VariantValue=100nA
+ParamDesignator34=D4
+ParamVariation35=ParameterName=Pin Info|VariantValue=
+ParamDesignator35=D4
+ParamVariation36=ParameterName=Pins|VariantValue=2
+ParamDesignator36=D4
+ParamVariation37=ParameterName=Polarity|VariantValue=Standard
+ParamDesignator37=D4
+ParamVariation38=ParameterName=Radiation Hardening|VariantValue=No
+ParamDesignator38=D4
+ParamVariation39=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator39=D4
+ParamVariation40=ParameterName=Reverse Standoff Voltage|VariantValue=100V
+ParamDesignator40=D4
+ParamVariation41=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator41=D4
+ParamVariation42=ParameterName=Schedule B|VariantValue=8541100070, 8541100070
+ParamDesignator42=D4
+ParamVariation43=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator43=D4
+ParamVariation44=ParameterName=Simulation|VariantValue=
+ParamDesignator44=D4
+ParamVariation45=ParameterName=Value|VariantValue=3pF
+ParamDesignator45=D4
+ParamVariation46=ParameterName=Voltage Rating (DC)|VariantValue=100V
+ParamDesignator46=D4
+ParamVariation47=ParameterName=Width|VariantValue=1.7mm
+ParamDesignator47=D4
+Variation2=Designator=D5|UniqueId=\NVTLIQWK\MGFNHRPO|Kind=2|AlternatePart=BAT41ZFILM|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-00812-1|AltLibLink_DesignItemID=CMP-00812-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=a02647fa-2830-44fe-a160-e6361b47152d|AltLibLink_RevisionGUID=5315bdf8-f899-4b1d-8c7f-4e076785c14d|AltLibLink_Footprint=SOD-123|AltLibLink_IsSameFootprint=False
+ParamVariation48=ParameterName=Comment|VariantValue=BAT41ZFILM
+ParamDesignator48=D5
+ParamVariation49=ParameterName=Average Rectified Current|VariantValue=200mA
+ParamDesignator49=D5
+ParamVariation50=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator50=D5
+ParamVariation51=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator51=D5
+ParamVariation52=ParameterName=Contact Plating|VariantValue=Tin
+ParamDesignator52=D5
+ParamVariation53=ParameterName=Current Rating|VariantValue=200mA
+ParamDesignator53=D5
+ParamVariation54=ParameterName=Description|VariantValue=Rectifier Diode, Schottky, 1 Phase, 1 Element, 0.2A, 100V V(RRM), Silicon
+ParamDesignator54=D5
+ParamVariation55=ParameterName=Element Configuration|VariantValue=Single
+ParamDesignator55=D5
+ParamVariation56=ParameterName=Footprint|VariantValue=SOD-123
+ParamDesignator56=D5
+ParamVariation57=ParameterName=Forward Current|VariantValue=200mA
+ParamDesignator57=D5
+ParamVariation58=ParameterName=Forward Voltage|VariantValue=450mV
+ParamDesignator58=D5
+ParamVariation59=ParameterName=Height|VariantValue=1.45mm
+ParamDesignator59=D5
+ParamVariation60=ParameterName=Ibis Model|VariantValue=
+ParamDesignator60=D5
+ParamVariation61=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator61=D5
+ParamVariation62=ParameterName=Length|VariantValue=2.85mm
+ParamDesignator62=D5
+ParamVariation63=ParameterName=Library Reference|VariantValue=CMP-00812-1
+ParamDesignator63=D5
+ParamVariation64=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator64=D5
+ParamVariation65=ParameterName=Max Forward Surge Current (Ifsm)|VariantValue=1A
+ParamDesignator65=D5
+ParamVariation66=ParameterName=Max Junction Temperature (Tj)|VariantValue=150°C
+ParamDesignator66=D5
+ParamVariation67=ParameterName=Max Operating Temperature|VariantValue=150°C
+ParamDesignator67=D5
+ParamVariation68=ParameterName=Max Output current|VariantValue=200mA
+ParamDesignator68=D5
+ParamVariation69=ParameterName=Max Repetitive Reverse Voltage (Vrrm)|VariantValue=100V
+ParamDesignator69=D5
+ParamVariation70=ParameterName=Max Reverse Leakage Current|VariantValue=100nA
+ParamDesignator70=D5
+ParamVariation71=ParameterName=Max Reverse Voltage (DC)|VariantValue=100V
+ParamDesignator71=D5
+ParamVariation72=ParameterName=Max Surge Current|VariantValue=1A
+ParamDesignator72=D5
+ParamVariation73=ParameterName=Min Operating Temperature|VariantValue=-65°C
+ParamDesignator73=D5
+ParamVariation74=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator74=D5
+ParamVariation75=ParameterName=Number of Elements|VariantValue=1
+ParamDesignator75=D5
+ParamVariation76=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator76=D5
+ParamVariation77=ParameterName=Output Current|VariantValue=200mA
+ParamDesignator77=D5
+ParamVariation78=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator78=D5
+ParamVariation79=ParameterName=PCB3D|VariantValue=
+ParamDesignator79=D5
+ParamVariation80=ParameterName=Peak Non-Repetitive Surge Current|VariantValue=1A
+ParamDesignator80=D5
+ParamVariation81=ParameterName=Peak Reverse Current|VariantValue=100nA
+ParamDesignator81=D5
+ParamVariation82=ParameterName=Pin Info|VariantValue=
+ParamDesignator82=D5
+ParamVariation83=ParameterName=Pins|VariantValue=2
+ParamDesignator83=D5
+ParamVariation84=ParameterName=Polarity|VariantValue=Standard
+ParamDesignator84=D5
+ParamVariation85=ParameterName=Radiation Hardening|VariantValue=No
+ParamDesignator85=D5
+ParamVariation86=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator86=D5
+ParamVariation87=ParameterName=Reverse Standoff Voltage|VariantValue=100V
+ParamDesignator87=D5
+ParamVariation88=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator88=D5
+ParamVariation89=ParameterName=Schedule B|VariantValue=8541100070, 8541100070
+ParamDesignator89=D5
+ParamVariation90=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator90=D5
+ParamVariation91=ParameterName=Simulation|VariantValue=
+ParamDesignator91=D5
+ParamVariation92=ParameterName=Value|VariantValue=3pF
+ParamDesignator92=D5
+ParamVariation93=ParameterName=Voltage Rating (DC)|VariantValue=100V
+ParamDesignator93=D5
+ParamVariation94=ParameterName=Width|VariantValue=1.7mm
+ParamDesignator94=D5
+ParamVariationCount=94
 
 [Parameter1]
 Name=Author
@@ -344,6 +391,45 @@ ProfileId0=REEAHDJO
 ProfileName0=Mixed Sim Configuration
 OutputType0=AdvSimNetlist
 ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=0
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -726,6 +812,11 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1020,6 +1111,8 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1109,6 +1202,7 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=2
@@ -1274,6 +1368,8 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
