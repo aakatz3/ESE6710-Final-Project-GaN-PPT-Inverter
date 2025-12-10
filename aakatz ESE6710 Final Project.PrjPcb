@@ -451,6 +451,9 @@ SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
+[Generic_CoDesigner Mechatronic Panel]
+LastAcknowledgment=2025-12-10T09:39:59.0000000
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
