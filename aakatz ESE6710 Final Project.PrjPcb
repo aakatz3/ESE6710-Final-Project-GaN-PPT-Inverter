@@ -189,6 +189,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=dfcc1633-4c67-44fb-a107-7b06bb7bca4e
 Description=Alts
@@ -389,6 +406,66 @@ ParamVariationCount=94
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Design Rule Check - ESE6710 Final Project.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.TXT
 DItemRevisionGUID=
 
 [Parameter1]
