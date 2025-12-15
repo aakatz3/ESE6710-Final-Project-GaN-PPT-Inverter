@@ -48,6 +48,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
+CurrentVariant=bom
 
 [Preferences]
 PrefsVaultGUID=
@@ -205,6 +206,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document10]
+DocumentPath=OSHStencils.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=ESE6710 Final Project.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RBCCJREZ
 
 [ProjectVariant1]
 UniqueId=dfcc1633-4c67-44fb-a107-7b06bb7bca4e
@@ -404,6 +439,17 @@ ParamVariation94=ParameterName=Width|VariantValue=1.7mm
 ParamDesignator94=D5
 ParamVariationCount=94
 
+[ProjectVariant2]
+UniqueId=a989b960-a500-444a-b4a4-436933c3eedf
+Description=bom
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=C1|UniqueId=\CZBQEQXH|Kind=1|AlternatePart=
+Variation2=Designator=C3|UniqueId=\VNMARUXI|Kind=1|AlternatePart=
+Variation3=Designator=C2|UniqueId=\TVNFHFHK|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Design Rule Check - ESE6710 Final Project.html
 DItemRevisionGUID=
@@ -417,54 +463,94 @@ DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing File
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBL
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBO
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBS
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTL
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTO
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTS
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.LDP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.RUL
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.TXT
 DItemRevisionGUID=
 
