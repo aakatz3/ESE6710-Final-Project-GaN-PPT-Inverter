@@ -48,7 +48,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
-CurrentVariant=bom
+CurrentVariant=as built
 
 [Preferences]
 PrefsVaultGUID=
@@ -246,7 +246,7 @@ UniqueId=dfcc1633-4c67-44fb-a107-7b06bb7bca4e
 Description=Alts
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
+VariationCount=3
 Variation1=Designator=D4|UniqueId=\NVTLIQWK\PSJHMKRB|Kind=2|AlternatePart=BAT41ZFILM|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-00812-1|AltLibLink_DesignItemID=CMP-00812-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=a02647fa-2830-44fe-a160-e6361b47152d|AltLibLink_RevisionGUID=5315bdf8-f899-4b1d-8c7f-4e076785c14d|AltLibLink_Footprint=SOD-123|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=BAT41ZFILM
 ParamDesignator1=D4
@@ -437,7 +437,72 @@ ParamVariation93=ParameterName=Voltage Rating (DC)|VariantValue=100V
 ParamDesignator93=D5
 ParamVariation94=ParameterName=Width|VariantValue=1.7mm
 ParamDesignator94=D5
-ParamVariationCount=94
+Variation3=Designator=C13|UniqueId=\NVTLIQWK\CUGESOHF|Kind=2|AlternatePart=800B221JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00032-1|AltLibLink_DesignItemID=CMP-001-00032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=849474be-983a-48e7-9402-a7cbdd9f068b|AltLibLink_RevisionGUID=fba07582-82a8-4e39-946b-7f43a51a6ecc|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation95=ParameterName=Comment|VariantValue=800B221JT200XT1K
+ParamDesignator95=C13
+ParamVariation96=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator96=C13
+ParamVariation97=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator97=C13
+ParamVariation98=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator98=C13
+ParamVariation99=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator99=C13
+ParamVariation100=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00022uF, Surface Mount, 1111
+ParamDesignator100=C13
+ParamVariation101=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator101=C13
+ParamVariation102=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator102=C13
+ParamVariation103=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator103=C13
+ParamVariation104=ParameterName=Ibis Model|VariantValue=
+ParamDesignator104=C13
+ParamVariation105=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator105=C13
+ParamVariation106=ParameterName=Library Reference|VariantValue=CMP-001-00032-1
+ParamDesignator106=C13
+ParamVariation107=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator107=C13
+ParamVariation108=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator108=C13
+ParamVariation109=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator109=C13
+ParamVariation110=ParameterName=Mount|VariantValue=SMD
+ParamDesignator110=C13
+ParamVariation111=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator111=C13
+ParamVariation112=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator112=C13
+ParamVariation113=ParameterName=PCB3D|VariantValue=
+ParamDesignator113=C13
+ParamVariation114=ParameterName=Pin Info|VariantValue=
+ParamDesignator114=C13
+ParamVariation115=ParameterName=Pins|VariantValue=
+ParamDesignator115=C13
+ParamVariation116=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator116=C13
+ParamVariation117=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator117=C13
+ParamVariation118=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator118=C13
+ParamVariation119=ParameterName=Simulation|VariantValue=
+ParamDesignator119=C13
+ParamVariation120=ParameterName=Tolerance|VariantValue=
+ParamDesignator120=C13
+ParamVariation121=ParameterName=Val|VariantValue=
+ParamDesignator121=C13
+ParamVariation122=ParameterName=Value|VariantValue=220pF
+ParamDesignator122=C13
+ParamVariation123=ParameterName=Vol|VariantValue=
+ParamDesignator123=C13
+ParamVariation124=ParameterName=Voltage|VariantValue=200V
+ParamDesignator124=C13
+ParamVariation125=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator125=C13
+ParamVariation126=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator126=C13
+ParamVariationCount=126
 
 [ProjectVariant2]
 UniqueId=a989b960-a500-444a-b4a4-436933c3eedf
@@ -449,6 +514,411 @@ Variation1=Designator=C1|UniqueId=\CZBQEQXH|Kind=1|AlternatePart=
 Variation2=Designator=C3|UniqueId=\VNMARUXI|Kind=1|AlternatePart=
 Variation3=Designator=C2|UniqueId=\TVNFHFHK|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueId=6c526dda-d65e-4217-8fb7-8b6e6b314987
+Description=as built
+AllowFabrication=0
+ParameterCount=0
+VariationCount=13
+Variation1=Designator=C17|UniqueId=\NVTLIQWK\CLZOMHHA|Kind=2|AlternatePart=800B471JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-0001-00017-3|AltLibLink_DesignItemID=CMP-0001-00017-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=d83010ca-e621-47eb-b7d7-68c61d48686e|AltLibLink_RevisionGUID=95a93cee-38cf-4891-a249-b891286bd452|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator1=C17
+ParamVariation2=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator2=C17
+ParamVariation3=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator3=C17
+ParamVariation4=ParameterName=Comment|VariantValue=800B471JT200XT1K
+ParamDesignator4=C17
+ParamVariation5=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator5=C17
+ParamVariation6=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00047uF, Surface Mount, 1111
+ParamDesignator6=C17
+ParamVariation7=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator7=C17
+ParamVariation8=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator8=C17
+ParamVariation9=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator9=C17
+ParamVariation10=ParameterName=Ibis Model|VariantValue=
+ParamDesignator10=C17
+ParamVariation11=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator11=C17
+ParamVariation12=ParameterName=Library Reference|VariantValue=CMP-0001-00017-3
+ParamDesignator12=C17
+ParamVariation13=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator13=C17
+ParamVariation14=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator14=C17
+ParamVariation15=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator15=C17
+ParamVariation16=ParameterName=Mount|VariantValue=SMD
+ParamDesignator16=C17
+ParamVariation17=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator17=C17
+ParamVariation18=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator18=C17
+ParamVariation19=ParameterName=PCB3D|VariantValue=
+ParamDesignator19=C17
+ParamVariation20=ParameterName=Pin Info|VariantValue=
+ParamDesignator20=C17
+ParamVariation21=ParameterName=Pins|VariantValue=
+ParamDesignator21=C17
+ParamVariation22=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator22=C17
+ParamVariation23=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator23=C17
+ParamVariation24=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator24=C17
+ParamVariation25=ParameterName=Simulation|VariantValue=
+ParamDesignator25=C17
+ParamVariation26=ParameterName=Tolerance|VariantValue=
+ParamDesignator26=C17
+ParamVariation27=ParameterName=Val|VariantValue=
+ParamDesignator27=C17
+ParamVariation28=ParameterName=Value|VariantValue=470pF
+ParamDesignator28=C17
+ParamVariation29=ParameterName=Vol|VariantValue=
+ParamDesignator29=C17
+ParamVariation30=ParameterName=Voltage|VariantValue=200V
+ParamDesignator30=C17
+ParamVariation31=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator31=C17
+ParamVariation32=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator32=C17
+Variation2=Designator=C18|UniqueId=\NVTLIQWK\QFQYEHKQ|Kind=2|AlternatePart=JR500HV|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00042-1|AltLibLink_DesignItemID=CMP-001-00042-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=43b77e3e-0db2-4b50-aa8b-9ae4d411b3d7|AltLibLink_RevisionGUID=848ae227-033b-4603-b20a-92355cd8c25d|AltLibLink_Footprint=JR500-Footprint-1|AltLibLink_IsSameFootprint=False
+ParamVariation33=ParameterName=Capacitor Type|VariantValue=VARIABLE CERAMIC
+ParamDesignator33=C18
+ParamVariation34=ParameterName=Case/Package|VariantValue=3432
+ParamDesignator34=C18
+ParamVariation35=ParameterName=Comment|VariantValue=JR500HV
+ParamDesignator35=C18
+ParamVariation36=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator36=C18
+ParamVariation37=ParameterName=Description|VariantValue=Ceramic, 350V, 100% +Tol, 0% -Tol, 8pF Min, 50pF Max, Vertical Adjuster, Surface Mount
+ParamDesignator37=C18
+ParamVariation38=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator38=C18
+ParamVariation39=ParameterName=Footprint|VariantValue=JR500-Footprint-1
+ParamDesignator39=C18
+ParamVariation40=ParameterName=Height|VariantValue=1.15mm
+ParamDesignator40=C18
+ParamVariation41=ParameterName=Ibis Model|VariantValue=
+ParamDesignator41=C18
+ParamVariation42=ParameterName=Length|VariantValue=3.5mm
+ParamDesignator42=C18
+ParamVariation43=ParameterName=Library Reference|VariantValue=CMP-001-00042-1
+ParamDesignator43=C18
+ParamVariation44=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator44=C18
+ParamVariation45=ParameterName=Maximum Value|VariantValue=50pF
+ParamDesignator45=C18
+ParamVariation46=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator46=C18
+ParamVariation47=ParameterName=maxval|VariantValue=="Maximum Value"
+ParamDesignator47=C18
+ParamVariation48=ParameterName=Minimum Value|VariantValue=8pF
+ParamDesignator48=C18
+ParamVariation49=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator49=C18
+ParamVariation50=ParameterName=minval|VariantValue=="Minimum Value"
+ParamDesignator50=C18
+ParamVariation51=ParameterName=Mount|VariantValue=SMD
+ParamDesignator51=C18
+ParamVariation52=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator52=C18
+ParamVariation53=ParameterName=PCB3D|VariantValue=
+ParamDesignator53=C18
+ParamVariation54=ParameterName=Pin Info|VariantValue=
+ParamDesignator54=C18
+ParamVariation55=ParameterName=Pins|VariantValue=3
+ParamDesignator55=C18
+ParamVariation56=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator56=C18
+ParamVariation57=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator57=C18
+ParamVariation58=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator58=C18
+ParamVariation59=ParameterName=Simulation|VariantValue=
+ParamDesignator59=C18
+ParamVariation60=ParameterName=Tolerance|VariantValue=
+ParamDesignator60=C18
+ParamVariation61=ParameterName=Value|VariantValue==minval+'-'+maxval
+ParamDesignator61=C18
+ParamVariation62=ParameterName=Voltage|VariantValue=350V
+ParamDesignator62=C18
+ParamVariation63=ParameterName=Voltage Rating (DC)|VariantValue=350V
+ParamDesignator63=C18
+ParamVariation64=ParameterName=Width|VariantValue=3.1mm
+ParamDesignator64=C18
+Variation3=Designator=C19|UniqueId=\NVTLIQWK\BVMXCOWL|Kind=1|AlternatePart=
+Variation4=Designator=C16|UniqueId=\NVTLIQWK\LNKIUNJG|Kind=1|AlternatePart=
+Variation5=Designator=C20|UniqueId=\NVTLIQWK\YZZYQHSE|Kind=1|AlternatePart=
+Variation6=Designator=C12|UniqueId=\NVTLIQWK\PBIXCGXW|Kind=1|AlternatePart=
+Variation7=Designator=C15|UniqueId=\NVTLIQWK\PPLCGOSC|Kind=1|AlternatePart=
+Variation8=Designator=C13|UniqueId=\NVTLIQWK\CUGESOHF|Kind=2|AlternatePart=800B221JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00032-1|AltLibLink_DesignItemID=CMP-001-00032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=849474be-983a-48e7-9402-a7cbdd9f068b|AltLibLink_RevisionGUID=fba07582-82a8-4e39-946b-7f43a51a6ecc|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation65=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator65=C13
+ParamVariation66=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator66=C13
+ParamVariation67=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator67=C13
+ParamVariation68=ParameterName=Comment|VariantValue=800B221JT200XT1K
+ParamDesignator68=C13
+ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator69=C13
+ParamVariation70=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00022uF, Surface Mount, 1111
+ParamDesignator70=C13
+ParamVariation71=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator71=C13
+ParamVariation72=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator72=C13
+ParamVariation73=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator73=C13
+ParamVariation74=ParameterName=Ibis Model|VariantValue=
+ParamDesignator74=C13
+ParamVariation75=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator75=C13
+ParamVariation76=ParameterName=Library Reference|VariantValue=CMP-001-00032-1
+ParamDesignator76=C13
+ParamVariation77=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator77=C13
+ParamVariation78=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator78=C13
+ParamVariation79=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator79=C13
+ParamVariation80=ParameterName=Mount|VariantValue=SMD
+ParamDesignator80=C13
+ParamVariation81=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator81=C13
+ParamVariation82=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator82=C13
+ParamVariation83=ParameterName=PCB3D|VariantValue=
+ParamDesignator83=C13
+ParamVariation84=ParameterName=Pin Info|VariantValue=
+ParamDesignator84=C13
+ParamVariation85=ParameterName=Pins|VariantValue=
+ParamDesignator85=C13
+ParamVariation86=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator86=C13
+ParamVariation87=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator87=C13
+ParamVariation88=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator88=C13
+ParamVariation89=ParameterName=Simulation|VariantValue=
+ParamDesignator89=C13
+ParamVariation90=ParameterName=Tolerance|VariantValue=
+ParamDesignator90=C13
+ParamVariation91=ParameterName=Val|VariantValue=
+ParamDesignator91=C13
+ParamVariation92=ParameterName=Value|VariantValue=220pF
+ParamDesignator92=C13
+ParamVariation93=ParameterName=Vol|VariantValue=
+ParamDesignator93=C13
+ParamVariation94=ParameterName=Voltage|VariantValue=200V
+ParamDesignator94=C13
+ParamVariation95=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator95=C13
+ParamVariation96=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator96=C13
+Variation9=Designator=C22|UniqueId=\NVTLIQWK\LWDXXTYJ|Kind=2|AlternatePart=800B221JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00032-1|AltLibLink_DesignItemID=CMP-001-00032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=849474be-983a-48e7-9402-a7cbdd9f068b|AltLibLink_RevisionGUID=fba07582-82a8-4e39-946b-7f43a51a6ecc|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation97=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator97=C22
+ParamVariation98=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator98=C22
+ParamVariation99=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator99=C22
+ParamVariation100=ParameterName=Comment|VariantValue=800B221JT200XT1K
+ParamDesignator100=C22
+ParamVariation101=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator101=C22
+ParamVariation102=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00022uF, Surface Mount, 1111
+ParamDesignator102=C22
+ParamVariation103=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator103=C22
+ParamVariation104=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator104=C22
+ParamVariation105=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator105=C22
+ParamVariation106=ParameterName=Ibis Model|VariantValue=
+ParamDesignator106=C22
+ParamVariation107=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator107=C22
+ParamVariation108=ParameterName=Library Reference|VariantValue=CMP-001-00032-1
+ParamDesignator108=C22
+ParamVariation109=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator109=C22
+ParamVariation110=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator110=C22
+ParamVariation111=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator111=C22
+ParamVariation112=ParameterName=Mount|VariantValue=SMD
+ParamDesignator112=C22
+ParamVariation113=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator113=C22
+ParamVariation114=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator114=C22
+ParamVariation115=ParameterName=PCB3D|VariantValue=
+ParamDesignator115=C22
+ParamVariation116=ParameterName=Pin Info|VariantValue=
+ParamDesignator116=C22
+ParamVariation117=ParameterName=Pins|VariantValue=
+ParamDesignator117=C22
+ParamVariation118=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator118=C22
+ParamVariation119=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator119=C22
+ParamVariation120=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator120=C22
+ParamVariation121=ParameterName=Simulation|VariantValue=
+ParamDesignator121=C22
+ParamVariation122=ParameterName=Tolerance|VariantValue=
+ParamDesignator122=C22
+ParamVariation123=ParameterName=Val|VariantValue=
+ParamDesignator123=C22
+ParamVariation124=ParameterName=Value|VariantValue=220pF
+ParamDesignator124=C22
+ParamVariation125=ParameterName=Vol|VariantValue=
+ParamDesignator125=C22
+ParamVariation126=ParameterName=Voltage|VariantValue=200V
+ParamDesignator126=C22
+ParamVariation127=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator127=C22
+ParamVariation128=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator128=C22
+Variation10=Designator=C21|UniqueId=\NVTLIQWK\JOQDHOAH|Kind=1|AlternatePart=
+Variation11=Designator=C24|UniqueId=\NVTLIQWK\WELLZWXW|Kind=1|AlternatePart=
+Variation12=Designator=C23|UniqueId=\NVTLIQWK\UKQDWLNC|Kind=2|AlternatePart=JR500|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00035-3|AltLibLink_DesignItemID=CMP-001-00035-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=6900e004-9c52-49b8-a0b4-4f454cf5485b|AltLibLink_RevisionGUID=afae9bee-028f-41dc-9b07-e5857b004ac5|AltLibLink_Footprint=JR500-Footprint-1|AltLibLink_IsSameFootprint=False
+ParamVariation129=ParameterName=Capacitor Type|VariantValue=VARIABLE CERAMIC
+ParamDesignator129=C23
+ParamVariation130=ParameterName=Case/Package|VariantValue=3432
+ParamDesignator130=C23
+ParamVariation131=ParameterName=Comment|VariantValue=JR500
+ParamDesignator131=C23
+ParamVariation132=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator132=C23
+ParamVariation133=ParameterName=Description|VariantValue=Ceramic, 125V, 100% +Tol, 0% -Tol, 8pF Min, 50pF Max, Vertical Adjuster, Surface Mount
+ParamDesignator133=C23
+ParamVariation134=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator134=C23
+ParamVariation135=ParameterName=Footprint|VariantValue=JR500-Footprint-1
+ParamDesignator135=C23
+ParamVariation136=ParameterName=Height|VariantValue=1.15mm
+ParamDesignator136=C23
+ParamVariation137=ParameterName=Ibis Model|VariantValue=
+ParamDesignator137=C23
+ParamVariation138=ParameterName=Length|VariantValue=3.5mm
+ParamDesignator138=C23
+ParamVariation139=ParameterName=Library Reference|VariantValue=CMP-001-00035-3
+ParamDesignator139=C23
+ParamVariation140=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator140=C23
+ParamVariation141=ParameterName=Maximum Value|VariantValue=50pF
+ParamDesignator141=C23
+ParamVariation142=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator142=C23
+ParamVariation143=ParameterName=maxval|VariantValue=="Maximum Value"
+ParamDesignator143=C23
+ParamVariation144=ParameterName=Minimum Value|VariantValue=8pF
+ParamDesignator144=C23
+ParamVariation145=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator145=C23
+ParamVariation146=ParameterName=minval|VariantValue=="Minimum Value"
+ParamDesignator146=C23
+ParamVariation147=ParameterName=Mount|VariantValue=SMD
+ParamDesignator147=C23
+ParamVariation148=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator148=C23
+ParamVariation149=ParameterName=PCB3D|VariantValue=
+ParamDesignator149=C23
+ParamVariation150=ParameterName=Pin Info|VariantValue=
+ParamDesignator150=C23
+ParamVariation151=ParameterName=Pins|VariantValue=3
+ParamDesignator151=C23
+ParamVariation152=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator152=C23
+ParamVariation153=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator153=C23
+ParamVariation154=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator154=C23
+ParamVariation155=ParameterName=Simulation|VariantValue=
+ParamDesignator155=C23
+ParamVariation156=ParameterName=Tolerance|VariantValue=
+ParamDesignator156=C23
+ParamVariation157=ParameterName=Value|VariantValue==minval+'-'+maxval
+ParamDesignator157=C23
+ParamVariation158=ParameterName=Voltage|VariantValue=125V
+ParamDesignator158=C23
+ParamVariation159=ParameterName=Voltage Rating (DC)|VariantValue=125V
+ParamDesignator159=C23
+ParamVariation160=ParameterName=Width|VariantValue=3.1mm
+ParamDesignator160=C23
+Variation13=Designator=C14|UniqueId=\NVTLIQWK\AWZPGUHW|Kind=2|AlternatePart=JR500|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00035-3|AltLibLink_DesignItemID=CMP-001-00035-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=6900e004-9c52-49b8-a0b4-4f454cf5485b|AltLibLink_RevisionGUID=afae9bee-028f-41dc-9b07-e5857b004ac5|AltLibLink_Footprint=JR500-Footprint-1|AltLibLink_IsSameFootprint=False
+ParamVariation161=ParameterName=Capacitor Type|VariantValue=VARIABLE CERAMIC
+ParamDesignator161=C14
+ParamVariation162=ParameterName=Case/Package|VariantValue=3432
+ParamDesignator162=C14
+ParamVariation163=ParameterName=Comment|VariantValue=JR500
+ParamDesignator163=C14
+ParamVariation164=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator164=C14
+ParamVariation165=ParameterName=Description|VariantValue=Ceramic, 125V, 100% +Tol, 0% -Tol, 8pF Min, 50pF Max, Vertical Adjuster, Surface Mount
+ParamDesignator165=C14
+ParamVariation166=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator166=C14
+ParamVariation167=ParameterName=Footprint|VariantValue=JR500-Footprint-1
+ParamDesignator167=C14
+ParamVariation168=ParameterName=Height|VariantValue=1.15mm
+ParamDesignator168=C14
+ParamVariation169=ParameterName=Ibis Model|VariantValue=
+ParamDesignator169=C14
+ParamVariation170=ParameterName=Length|VariantValue=3.5mm
+ParamDesignator170=C14
+ParamVariation171=ParameterName=Library Reference|VariantValue=CMP-001-00035-3
+ParamDesignator171=C14
+ParamVariation172=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator172=C14
+ParamVariation173=ParameterName=Maximum Value|VariantValue=50pF
+ParamDesignator173=C14
+ParamVariation174=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator174=C14
+ParamVariation175=ParameterName=maxval|VariantValue=="Maximum Value"
+ParamDesignator175=C14
+ParamVariation176=ParameterName=Minimum Value|VariantValue=8pF
+ParamDesignator176=C14
+ParamVariation177=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamDesignator177=C14
+ParamVariation178=ParameterName=minval|VariantValue=="Minimum Value"
+ParamDesignator178=C14
+ParamVariation179=ParameterName=Mount|VariantValue=SMD
+ParamDesignator179=C14
+ParamVariation180=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator180=C14
+ParamVariation181=ParameterName=PCB3D|VariantValue=
+ParamDesignator181=C14
+ParamVariation182=ParameterName=Pin Info|VariantValue=
+ParamDesignator182=C14
+ParamVariation183=ParameterName=Pins|VariantValue=3
+ParamDesignator183=C14
+ParamVariation184=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator184=C14
+ParamVariation185=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator185=C14
+ParamVariation186=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator186=C14
+ParamVariation187=ParameterName=Simulation|VariantValue=
+ParamDesignator187=C14
+ParamVariation188=ParameterName=Tolerance|VariantValue=
+ParamDesignator188=C14
+ParamVariation189=ParameterName=Value|VariantValue==minval+'-'+maxval
+ParamDesignator189=C14
+ParamVariation190=ParameterName=Voltage|VariantValue=125V
+ParamDesignator190=C14
+ParamVariation191=ParameterName=Voltage Rating (DC)|VariantValue=125V
+ParamDesignator191=C14
+ParamVariation192=ParameterName=Width|VariantValue=3.1mm
+ParamDesignator192=C14
+ParamVariationCount=192
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Design Rule Check - ESE6710 Final Project.html
