@@ -328,9 +328,10 @@ ParamVariationCount=0
 [ProjectVariant3]
 UniqueId=6c526dda-d65e-4217-8fb7-8b6e6b314987
 Description=as built
+OverwritePCBFootprint=0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
+VariationCount=17
 Variation1=Designator=C17|UniqueId=\NVTLIQWK\CLZOMHHA|Kind=2|AlternatePart=800B471JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-0001-00017-3|AltLibLink_DesignItemID=CMP-0001-00017-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=d83010ca-e621-47eb-b7d7-68c61d48686e|AltLibLink_RevisionGUID=95a93cee-38cf-4891-a249-b891286bd452|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
 ParamVariation1=ParameterName=Comment|VariantValue=800B471JT200XT1K
 ParamDesignator1=C17
@@ -466,8 +467,8 @@ Variation4=Designator=C16|UniqueId=\NVTLIQWK\LNKIUNJG|Kind=1|AlternatePart=
 Variation5=Designator=C20|UniqueId=\NVTLIQWK\YZZYQHSE|Kind=1|AlternatePart=
 Variation6=Designator=C12|UniqueId=\NVTLIQWK\PBIXCGXW|Kind=1|AlternatePart=
 Variation7=Designator=C15|UniqueId=\NVTLIQWK\PPLCGOSC|Kind=1|AlternatePart=
-Variation8=Designator=C13|UniqueId=\NVTLIQWK\CUGESOHF|Kind=2|AlternatePart=800B221JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00032-1|AltLibLink_DesignItemID=CMP-001-00032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=849474be-983a-48e7-9402-a7cbdd9f068b|AltLibLink_RevisionGUID=fba07582-82a8-4e39-946b-7f43a51a6ecc|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation65=ParameterName=Comment|VariantValue=800B221JT200XT1K
+Variation8=Designator=C13|UniqueId=\NVTLIQWK\CUGESOHF|Kind=2|AlternatePart=800B271JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00051-1|AltLibLink_DesignItemID=CMP-001-00051-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=671b4137-c3e3-4f5e-9192-6e5a056891c0|AltLibLink_RevisionGUID=3dd56213-00eb-4bc7-8d1e-01b6901cd736|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation65=ParameterName=Comment|VariantValue=800B271JT200XT
 ParamDesignator65=C13
 ParamVariation66=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator66=C13
@@ -477,7 +478,7 @@ ParamVariation68=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator68=C13
 ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator69=C13
-ParamVariation70=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00022uF, Surface Mount, 1111
+ParamVariation70=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00027uF, Surface Mount, 1111
 ParamDesignator70=C13
 ParamVariation71=ParameterName=Dielectric Material|VariantValue=Ceramic
 ParamDesignator71=C13
@@ -489,7 +490,7 @@ ParamVariation74=ParameterName=Ibis Model|VariantValue=
 ParamDesignator74=C13
 ParamVariation75=ParameterName=Length|VariantValue=2.79mm
 ParamDesignator75=C13
-ParamVariation76=ParameterName=Library Reference|VariantValue=CMP-001-00032-1
+ParamVariation76=ParameterName=Library Reference|VariantValue=CMP-001-00051-1
 ParamDesignator76=C13
 ParamVariation77=ParameterName=Lifecycle Status|VariantValue=Production
 ParamDesignator77=C13
@@ -517,11 +518,11 @@ ParamVariation88=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator88=C13
 ParamVariation89=ParameterName=Simulation|VariantValue=
 ParamDesignator89=C13
-ParamVariation90=ParameterName=Tolerance|VariantValue=
+ParamVariation90=ParameterName=Tolerance|VariantValue=5%
 ParamDesignator90=C13
 ParamVariation91=ParameterName=Val|VariantValue=
 ParamDesignator91=C13
-ParamVariation92=ParameterName=Value|VariantValue=220pF
+ParamVariation92=ParameterName=Value|VariantValue=270pF
 ParamDesignator92=C13
 ParamVariation93=ParameterName=Vol|VariantValue=
 ParamDesignator93=C13
@@ -531,307 +532,340 @@ ParamVariation95=ParameterName=Voltage Rating (DC)|VariantValue=200V
 ParamDesignator95=C13
 ParamVariation96=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator96=C13
-Variation9=Designator=C22|UniqueId=\NVTLIQWK\LWDXXTYJ|Kind=2|AlternatePart=800B221JT200XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00032-1|AltLibLink_DesignItemID=CMP-001-00032-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=849474be-983a-48e7-9402-a7cbdd9f068b|AltLibLink_RevisionGUID=fba07582-82a8-4e39-946b-7f43a51a6ecc|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation97=ParameterName=Comment|VariantValue=800B221JT200XT1K
-ParamDesignator97=C22
-ParamVariation98=ParameterName=Capacitor Type|VariantValue=Ceramic
-ParamDesignator98=C22
-ParamVariation99=ParameterName=Case/Package|VariantValue=1111
-ParamDesignator99=C22
-ParamVariation100=ParameterName=China RoHS|VariantValue=Compliant
-ParamDesignator100=C22
-ParamVariation101=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator101=C22
-ParamVariation102=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00022uF, Surface Mount, 1111
-ParamDesignator102=C22
-ParamVariation103=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamVariation97=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator97=C13
+ParamVariation98=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator98=C13
+ParamVariation99=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator99=C13
+ParamVariation100=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator100=C13
+ParamVariation101=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator101=C13
+ParamVariation102=ParameterName=Voltage Rating|VariantValue=200V
+ParamDesignator102=C13
+Variation9=Designator=C22|UniqueId=\NVTLIQWK\LWDXXTYJ|Kind=2|AlternatePart=800B271JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00051-1|AltLibLink_DesignItemID=CMP-001-00051-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=671b4137-c3e3-4f5e-9192-6e5a056891c0|AltLibLink_RevisionGUID=3dd56213-00eb-4bc7-8d1e-01b6901cd736|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation103=ParameterName=Comment|VariantValue=800B271JT200XT
 ParamDesignator103=C22
-ParamVariation104=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamVariation104=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator104=C22
-ParamVariation105=ParameterName=Height|VariantValue=1.78mm
+ParamVariation105=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator105=C22
-ParamVariation106=ParameterName=Ibis Model|VariantValue=
+ParamVariation106=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator106=C22
-ParamVariation107=ParameterName=Length|VariantValue=2.79mm
+ParamVariation107=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator107=C22
-ParamVariation108=ParameterName=Library Reference|VariantValue=CMP-001-00032-1
+ParamVariation108=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00027uF, Surface Mount, 1111
 ParamDesignator108=C22
-ParamVariation109=ParameterName=Lifecycle Status|VariantValue=Production
+ParamVariation109=ParameterName=Dielectric Material|VariantValue=Ceramic
 ParamDesignator109=C22
-ParamVariation110=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamVariation110=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
 ParamDesignator110=C22
-ParamVariation111=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamVariation111=ParameterName=Height|VariantValue=1.78mm
 ParamDesignator111=C22
-ParamVariation112=ParameterName=Mount|VariantValue=SMD
+ParamVariation112=ParameterName=Ibis Model|VariantValue=
 ParamDesignator112=C22
-ParamVariation113=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamVariation113=ParameterName=Length|VariantValue=2.79mm
 ParamDesignator113=C22
-ParamVariation114=ParameterName=Number of Terminals|VariantValue=2
+ParamVariation114=ParameterName=Library Reference|VariantValue=CMP-001-00051-1
 ParamDesignator114=C22
-ParamVariation115=ParameterName=PCB3D|VariantValue=
+ParamVariation115=ParameterName=Lifecycle Status|VariantValue=Production
 ParamDesignator115=C22
-ParamVariation116=ParameterName=Pin Info|VariantValue=
+ParamVariation116=ParameterName=Max Operating Temperature|VariantValue=125°C
 ParamDesignator116=C22
-ParamVariation117=ParameterName=Pins|VariantValue=
+ParamVariation117=ParameterName=Min Operating Temperature|VariantValue=-55°C
 ParamDesignator117=C22
-ParamVariation118=ParameterName=REACH SVHC|VariantValue=Yes
+ParamVariation118=ParameterName=Mount|VariantValue=SMD
 ParamDesignator118=C22
-ParamVariation119=ParameterName=RoHS|VariantValue=Compliant
+ParamVariation119=ParameterName=Mounting Technology|VariantValue=Surface Mount
 ParamDesignator119=C22
-ParamVariation120=ParameterName=Signal Integrity|VariantValue=
+ParamVariation120=ParameterName=Number of Terminals|VariantValue=2
 ParamDesignator120=C22
-ParamVariation121=ParameterName=Simulation|VariantValue=
+ParamVariation121=ParameterName=PCB3D|VariantValue=
 ParamDesignator121=C22
-ParamVariation122=ParameterName=Tolerance|VariantValue=
+ParamVariation122=ParameterName=Pin Info|VariantValue=
 ParamDesignator122=C22
-ParamVariation123=ParameterName=Val|VariantValue=
+ParamVariation123=ParameterName=Pins|VariantValue=
 ParamDesignator123=C22
-ParamVariation124=ParameterName=Value|VariantValue=220pF
+ParamVariation124=ParameterName=REACH SVHC|VariantValue=Yes
 ParamDesignator124=C22
-ParamVariation125=ParameterName=Vol|VariantValue=
+ParamVariation125=ParameterName=RoHS|VariantValue=Compliant
 ParamDesignator125=C22
-ParamVariation126=ParameterName=Voltage|VariantValue=200V
+ParamVariation126=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator126=C22
-ParamVariation127=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamVariation127=ParameterName=Simulation|VariantValue=
 ParamDesignator127=C22
-ParamVariation128=ParameterName=Width|VariantValue=2.79mm
+ParamVariation128=ParameterName=Tolerance|VariantValue=5%
 ParamDesignator128=C22
+ParamVariation129=ParameterName=Val|VariantValue=
+ParamDesignator129=C22
+ParamVariation130=ParameterName=Value|VariantValue=270pF
+ParamDesignator130=C22
+ParamVariation131=ParameterName=Vol|VariantValue=
+ParamDesignator131=C22
+ParamVariation132=ParameterName=Voltage|VariantValue=200V
+ParamDesignator132=C22
+ParamVariation133=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator133=C22
+ParamVariation134=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator134=C22
+ParamVariation135=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator135=C22
+ParamVariation136=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator136=C22
+ParamVariation137=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator137=C22
+ParamVariation138=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator138=C22
+ParamVariation139=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator139=C22
+ParamVariation140=ParameterName=Voltage Rating|VariantValue=200V
+ParamDesignator140=C22
 Variation10=Designator=C21|UniqueId=\NVTLIQWK\JOQDHOAH|Kind=1|AlternatePart=
 Variation11=Designator=C24|UniqueId=\NVTLIQWK\WELLZWXW|Kind=1|AlternatePart=
-Variation12=Designator=C23|UniqueId=\NVTLIQWK\UKQDWLNC|Kind=2|AlternatePart=JR500|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00035-3|AltLibLink_DesignItemID=CMP-001-00035-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=6900e004-9c52-49b8-a0b4-4f454cf5485b|AltLibLink_RevisionGUID=afae9bee-028f-41dc-9b07-e5857b004ac5|AltLibLink_Footprint=JR500-Footprint-1|AltLibLink_IsSameFootprint=False
-ParamVariation129=ParameterName=Comment|VariantValue=JR500
-ParamDesignator129=C23
-ParamVariation130=ParameterName=Capacitor Type|VariantValue=VARIABLE CERAMIC
-ParamDesignator130=C23
-ParamVariation131=ParameterName=Case/Package|VariantValue=3432
-ParamDesignator131=C23
-ParamVariation132=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator132=C23
-ParamVariation133=ParameterName=Description|VariantValue=Ceramic, 125V, 100% +Tol, 0% -Tol, 8pF Min, 50pF Max, Vertical Adjuster, Surface Mount
-ParamDesignator133=C23
-ParamVariation134=ParameterName=Dielectric Material|VariantValue=Ceramic
-ParamDesignator134=C23
-ParamVariation135=ParameterName=Footprint|VariantValue=JR500-Footprint-1
-ParamDesignator135=C23
-ParamVariation136=ParameterName=Height|VariantValue=1.15mm
-ParamDesignator136=C23
-ParamVariation137=ParameterName=Ibis Model|VariantValue=
-ParamDesignator137=C23
-ParamVariation138=ParameterName=Length|VariantValue=3.5mm
-ParamDesignator138=C23
-ParamVariation139=ParameterName=Library Reference|VariantValue=CMP-001-00035-3
-ParamDesignator139=C23
-ParamVariation140=ParameterName=Lifecycle Status|VariantValue=Production
-ParamDesignator140=C23
-ParamVariation141=ParameterName=Maximum Value|VariantValue=50pF
+Variation12=Designator=C23|UniqueId=\NVTLIQWK\UKQDWLNC|Kind=2|AlternatePart=800B5R6CT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00052-1|AltLibLink_DesignItemID=CMP-001-00052-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=0cfb93cf-8182-4be7-b97a-39850b46e006|AltLibLink_RevisionGUID=5e0233bd-9b13-4790-9c62-94c526986be1|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation141=ParameterName=Comment|VariantValue=800B5R6CT500XT
 ParamDesignator141=C23
-ParamVariation142=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamVariation142=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator142=C23
-ParamVariation143=ParameterName=maxval|VariantValue=="Maximum Value"
+ParamVariation143=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator143=C23
-ParamVariation144=ParameterName=Minimum Value|VariantValue=8pF
+ParamVariation144=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator144=C23
-ParamVariation145=ParameterName=Min Operating Temperature|VariantValue=-40°C
+ParamVariation145=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 500V, 4.4643% +Tol, 4.4643% -Tol, C0G, 30ppm/Cel TC, 0.0000056uF, Surface...
 ParamDesignator145=C23
-ParamVariation146=ParameterName=minval|VariantValue=="Minimum Value"
+ParamVariation146=ParameterName=Dielectric Material|VariantValue=Ceramic
 ParamDesignator146=C23
-ParamVariation147=ParameterName=Mount|VariantValue=SMD
+ParamVariation147=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
 ParamDesignator147=C23
-ParamVariation148=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamVariation148=ParameterName=Height|VariantValue=1.78mm
 ParamDesignator148=C23
-ParamVariation149=ParameterName=PCB3D|VariantValue=
+ParamVariation149=ParameterName=Ibis Model|VariantValue=
 ParamDesignator149=C23
-ParamVariation150=ParameterName=Pin Info|VariantValue=
+ParamVariation150=ParameterName=Length|VariantValue=2.79mm
 ParamDesignator150=C23
-ParamVariation151=ParameterName=Pins|VariantValue=3
+ParamVariation151=ParameterName=Library Reference|VariantValue=CMP-001-00052-1
 ParamDesignator151=C23
-ParamVariation152=ParameterName=REACH SVHC|VariantValue=Yes
+ParamVariation152=ParameterName=Lifecycle Status|VariantValue=Production
 ParamDesignator152=C23
-ParamVariation153=ParameterName=RoHS|VariantValue=Yes
+ParamVariation153=ParameterName=Max Operating Temperature|VariantValue=125°C
 ParamDesignator153=C23
-ParamVariation154=ParameterName=Signal Integrity|VariantValue=
+ParamVariation154=ParameterName=Min Operating Temperature|VariantValue=-55°C
 ParamDesignator154=C23
-ParamVariation155=ParameterName=Simulation|VariantValue=
+ParamVariation155=ParameterName=Mount|VariantValue=SMD
 ParamDesignator155=C23
-ParamVariation156=ParameterName=Tolerance|VariantValue=
+ParamVariation156=ParameterName=Mounting Technology|VariantValue=Surface Mount
 ParamDesignator156=C23
-ParamVariation157=ParameterName=Value|VariantValue==minval+'-'+maxval
+ParamVariation157=ParameterName=PCB3D|VariantValue=
 ParamDesignator157=C23
-ParamVariation158=ParameterName=Voltage|VariantValue=125V
+ParamVariation158=ParameterName=Pin Info|VariantValue=
 ParamDesignator158=C23
-ParamVariation159=ParameterName=Voltage Rating (DC)|VariantValue=125V
+ParamVariation159=ParameterName=Pins|VariantValue=
 ParamDesignator159=C23
-ParamVariation160=ParameterName=Width|VariantValue=3.1mm
+ParamVariation160=ParameterName=REACH SVHC|VariantValue=Yes
 ParamDesignator160=C23
-Variation13=Designator=C14|UniqueId=\NVTLIQWK\AWZPGUHW|Kind=2|AlternatePart=JR500|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00035-3|AltLibLink_DesignItemID=CMP-001-00035-3|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=6900e004-9c52-49b8-a0b4-4f454cf5485b|AltLibLink_RevisionGUID=afae9bee-028f-41dc-9b07-e5857b004ac5|AltLibLink_Footprint=JR500-Footprint-1|AltLibLink_IsSameFootprint=False
-ParamVariation161=ParameterName=Comment|VariantValue=JR500
-ParamDesignator161=C14
-ParamVariation162=ParameterName=Capacitor Type|VariantValue=VARIABLE CERAMIC
-ParamDesignator162=C14
-ParamVariation163=ParameterName=Case/Package|VariantValue=3432
-ParamDesignator163=C14
-ParamVariation164=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator164=C14
-ParamVariation165=ParameterName=Description|VariantValue=Ceramic, 125V, 100% +Tol, 0% -Tol, 8pF Min, 50pF Max, Vertical Adjuster, Surface Mount
-ParamDesignator165=C14
-ParamVariation166=ParameterName=Dielectric Material|VariantValue=Ceramic
-ParamDesignator166=C14
-ParamVariation167=ParameterName=Footprint|VariantValue=JR500-Footprint-1
-ParamDesignator167=C14
-ParamVariation168=ParameterName=Height|VariantValue=1.15mm
-ParamDesignator168=C14
-ParamVariation169=ParameterName=Ibis Model|VariantValue=
-ParamDesignator169=C14
-ParamVariation170=ParameterName=Length|VariantValue=3.5mm
-ParamDesignator170=C14
-ParamVariation171=ParameterName=Library Reference|VariantValue=CMP-001-00035-3
-ParamDesignator171=C14
-ParamVariation172=ParameterName=Lifecycle Status|VariantValue=Production
-ParamDesignator172=C14
-ParamVariation173=ParameterName=Maximum Value|VariantValue=50pF
-ParamDesignator173=C14
-ParamVariation174=ParameterName=Max Operating Temperature|VariantValue=85°C
-ParamDesignator174=C14
-ParamVariation175=ParameterName=maxval|VariantValue=="Maximum Value"
-ParamDesignator175=C14
-ParamVariation176=ParameterName=Minimum Value|VariantValue=8pF
-ParamDesignator176=C14
-ParamVariation177=ParameterName=Min Operating Temperature|VariantValue=-40°C
-ParamDesignator177=C14
-ParamVariation178=ParameterName=minval|VariantValue=="Minimum Value"
-ParamDesignator178=C14
-ParamVariation179=ParameterName=Mount|VariantValue=SMD
-ParamDesignator179=C14
-ParamVariation180=ParameterName=Mounting Technology|VariantValue=Surface Mount
-ParamDesignator180=C14
-ParamVariation181=ParameterName=PCB3D|VariantValue=
-ParamDesignator181=C14
-ParamVariation182=ParameterName=Pin Info|VariantValue=
-ParamDesignator182=C14
-ParamVariation183=ParameterName=Pins|VariantValue=3
-ParamDesignator183=C14
-ParamVariation184=ParameterName=REACH SVHC|VariantValue=Yes
-ParamDesignator184=C14
-ParamVariation185=ParameterName=RoHS|VariantValue=Yes
-ParamDesignator185=C14
-ParamVariation186=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator186=C14
-ParamVariation187=ParameterName=Simulation|VariantValue=
-ParamDesignator187=C14
-ParamVariation188=ParameterName=Tolerance|VariantValue=
-ParamDesignator188=C14
-ParamVariation189=ParameterName=Value|VariantValue==minval+'-'+maxval
-ParamDesignator189=C14
-ParamVariation190=ParameterName=Voltage|VariantValue=125V
-ParamDesignator190=C14
-ParamVariation191=ParameterName=Voltage Rating (DC)|VariantValue=125V
-ParamDesignator191=C14
-ParamVariation192=ParameterName=Width|VariantValue=3.1mm
-ParamDesignator192=C14
-Variation14=Designator=L2|UniqueId=\NVTLIQWK\HZHYJNVM|Kind=0|AlternatePart=
-ParamVariationCount=192
+ParamVariation161=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator161=C23
+ParamVariation162=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator162=C23
+ParamVariation163=ParameterName=Simulation|VariantValue=
+ParamDesignator163=C23
+ParamVariation164=ParameterName=Tolerance|VariantValue=41.6667%
+ParamDesignator164=C23
+ParamVariation165=ParameterName=Value|VariantValue=5.6pF
+ParamDesignator165=C23
+ParamVariation166=ParameterName=Voltage|VariantValue=500V
+ParamDesignator166=C23
+ParamVariation167=ParameterName=Voltage Rating (DC)|VariantValue=500V
+ParamDesignator167=C23
+ParamVariation168=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator168=C23
+ParamVariation169=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator169=C23
+ParamVariation170=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator170=C23
+ParamVariation171=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator171=C23
+ParamVariation172=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator172=C23
+ParamVariation173=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator173=C23
+ParamVariation174=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator174=C23
+ParamVariation175=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator175=C23
+ParamVariation176=ParameterName=Thickness|VariantValue=1.778mm
+ParamDesignator176=C23
+ParamVariation177=ParameterName=Val|VariantValue=
+ParamDesignator177=C23
+ParamVariation178=ParameterName=Vol|VariantValue=
+ParamDesignator178=C23
+ParamVariation179=ParameterName=Voltage Rating|VariantValue=500V
+ParamDesignator179=C23
+Variation13=Designator=C14|UniqueId=\NVTLIQWK\AWZPGUHW|Kind=1|AlternatePart=
+Variation14=Designator=J4|UniqueId=\EBMYTVHS|Kind=1|AlternatePart=
+Variation15=Designator=J7|UniqueId=\TVVPSEEX|Kind=1|AlternatePart=
+Variation16=Designator=L2|UniqueId=\NVTLIQWK\HZHYJNVM|Kind=2|AlternatePart=T106-0|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-002-000036-1|AltLibLink_DesignItemID=CMP-002-000036-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=b5472483-40df-4243-91a2-b1211b08427a|AltLibLink_RevisionGUID=fff023d5-7ae5-4c72-bf0e-a8545231b535|AltLibLink_Footprint=Custom Inductor, T106-0 Core-Footprint-1|AltLibLink_IsSameFootprint=False
+ParamVariation180=ParameterName=Comment|VariantValue=T106-0
+ParamDesignator180=L2
+ParamVariation181=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator181=L2
+ParamVariation182=ParameterName=Current (Max)|VariantValue=
+ParamDesignator182=L2
+ParamVariation183=ParameterName=Current (Saturation)|VariantValue=
+ParamDesignator183=L2
+ParamVariation184=ParameterName=Description|VariantValue=Custom T106-0 (Phenolic/"Air" toroidal core)
+ParamDesignator184=L2
+ParamVariation185=ParameterName=Footprint|VariantValue=Custom Inductor, T106-0 Core-Footprint-1
+ParamDesignator185=L2
+ParamVariation186=ParameterName=Ibis Model|VariantValue=
+ParamDesignator186=L2
+ParamVariation187=ParameterName=Library Reference|VariantValue=CMP-002-000036-1
+ParamDesignator187=L2
+ParamVariation188=ParameterName=PCB3D|VariantValue=
+ParamDesignator188=L2
+ParamVariation189=ParameterName=Pin Info|VariantValue=
+ParamDesignator189=L2
+ParamVariation190=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator190=L2
+ParamVariation191=ParameterName=Simulation|VariantValue=
+ParamDesignator191=L2
+ParamVariation192=ParameterName=Value|VariantValue=564.97nH
+ParamDesignator192=L2
+Variation17=Designator=L3|UniqueId=\NVTLIQWK\PPAGSHAI|Kind=2|AlternatePart=T106-0|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-002-000036-1|AltLibLink_DesignItemID=CMP-002-000036-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=b5472483-40df-4243-91a2-b1211b08427a|AltLibLink_RevisionGUID=fff023d5-7ae5-4c72-bf0e-a8545231b535|AltLibLink_Footprint=Custom Inductor, T106-0 Core-Footprint-1|AltLibLink_IsSameFootprint=False
+ParamVariation193=ParameterName=Comment|VariantValue=T106-0
+ParamDesignator193=L3
+ParamVariation194=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator194=L3
+ParamVariation195=ParameterName=Current (Max)|VariantValue=
+ParamDesignator195=L3
+ParamVariation196=ParameterName=Current (Saturation)|VariantValue=
+ParamDesignator196=L3
+ParamVariation197=ParameterName=Description|VariantValue=Custom T106-0 (Phenolic/"Air" toroidal core)
+ParamDesignator197=L3
+ParamVariation198=ParameterName=Footprint|VariantValue=Custom Inductor, T106-0 Core-Footprint-1
+ParamDesignator198=L3
+ParamVariation199=ParameterName=Ibis Model|VariantValue=
+ParamDesignator199=L3
+ParamVariation200=ParameterName=Library Reference|VariantValue=CMP-002-000036-1
+ParamDesignator200=L3
+ParamVariation201=ParameterName=PCB3D|VariantValue=
+ParamDesignator201=L3
+ParamVariation202=ParameterName=Pin Info|VariantValue=
+ParamDesignator202=L3
+ParamVariation203=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator203=L3
+ParamVariation204=ParameterName=Simulation|VariantValue=
+ParamDesignator204=L3
+ParamVariation205=ParameterName=Value|VariantValue=566.72nH
+ParamDesignator205=L3
+ParamVariationCount=205
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Design Rule Check - ESE6710 Final Project.html
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\BOM\Bill of Materials-aakatz ESE6710 Final Project(as built).csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.DRR
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Design Rule Check - ESE6710 Final Project.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.EXTREP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.EXTREP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.EXTREP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBL
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBO
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GBP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBS
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GM1
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTL
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTO
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GTP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTS
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.LDP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.REP
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\OSHStencils\aakatz ESE6710 Final Project\ESE6710 Final Project.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.RUL
+DocumentPath=Project Outputs for Free Documents\OSHStencils\Free Documents\ESE6710 Final Project.REP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for aakatz ESE6710 Final Project\Manufacturing Files\aakatz ESE6710 Final Project\ESE6710 Final Project.TXT
 DItemRevisionGUID=
 
