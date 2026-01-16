@@ -702,7 +702,7 @@ Configuration7_Name7=VisibleOrder_Flat
 Configuration7_Item7=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\Documentation.PDF
+OutputFilePath2=C:\Users\Public\Documents\Altium\aakatz ESE6710 Final Project\Project Outputs for aakatz ESE6710 Final Project\aakatz ESE6710 Final Project.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for aakatz ESE6710 Final Project
 OutputPathMedia2=
@@ -710,10 +710,10 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Documentation.PDF
+OutputFileName2=Documentation.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2==ProjectName
+OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -848,7 +848,7 @@ OutputFileNameSpecial7=
 OpenOutput7=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\Documentation.PDF
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\aakatz ESE6710 Final Project\Project Outputs for aakatz ESE6710 Final Project\aakatz ESE6710 Final Project.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
